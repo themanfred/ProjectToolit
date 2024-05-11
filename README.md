@@ -1,4 +1,9 @@
-# ProjectLoux
+# Toolit
+
+<img width="446" alt="toolit1" src="https://github.com/themanfred/ProjectToolit/assets/42932766/d80c570b-351d-4ef8-84d0-0d5bbbc57119">
+
+Final Presentation: [Toolit_Final_Presentation.pdf](https://github.com/themanfred/ProjectToolit/files/15284035/Toolit_Final_Presentation.pdf)
+User Manual: [User Manual Toolit.pdf](https://github.com/themanfred/ProjectToolit/files/15284037/User.Manual.Toolit.pdf)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
