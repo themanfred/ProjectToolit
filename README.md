@@ -1,9 +1,13 @@
 # Toolit
 
-<img width="446" alt="toolit1" src="https://github.com/themanfred/ProjectToolit/assets/42932766/d80c570b-351d-4ef8-84d0-0d5bbbc57119">
+
+![3](https://github.com/themanfred/ProjectToolit/assets/42932766/82f9d6e7-676f-4521-a106-b5da26ddeb36)
+
 
 Final Presentation: [Toolit_Final_Presentation.pdf](https://github.com/themanfred/ProjectToolit/files/15284035/Toolit_Final_Presentation.pdf)
 User Manual: [User Manual Toolit.pdf](https://github.com/themanfred/ProjectToolit/files/15284037/User.Manual.Toolit.pdf)
+
+<img width="446" alt="toolit1" src="https://github.com/themanfred/ProjectToolit/assets/42932766/d80c570b-351d-4ef8-84d0-0d5bbbc57119">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
